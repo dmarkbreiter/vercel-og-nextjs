@@ -5,7 +5,7 @@ export default function Page() {
     <div>
       <Head>
         <meta name="og:title" content="Vercel Edge Network" />
-        <meta name="og:description" content="Vercel Edge Network" />
+        <meta name="og:description" content="Vercel Edge Network Example" />
         <meta
           name="og:image"
           content={
